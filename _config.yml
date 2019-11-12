@@ -1,0 +1,26 @@
+markdown: redcarpet
+permalink: /:title.html
+url: http://jiyidian.com
+lsi: true
+pygments: true
+safe: true
+auto: true
+
+# presonal config
+title: 第八个记忆
+comments: disqus
+
+author:
+  name: Debug0Man
+  nickname: Debug0Man
+  email: debug0man@yahoo.com.cn
+  gmail: debug0man@yahoo.com.cn
+  site: http://jiyidian.com
+
+seo: 
+  keyword: 
+  description: 
+config:
+  js_dir:
+  img_dir:
+  css_dir:
