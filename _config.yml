@@ -1,6 +1,6 @@
 markdown: redcarpet
 permalink: /:title.html
-url: /
+url: http://debug0man.jiyidian.com
 lsi: true
 pygments: true
 safe: true
