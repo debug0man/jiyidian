@@ -1,6 +1,6 @@
 markdown: redcarpet
 permalink: /:title.html
-url: http://jiyidian.com
+url: /
 lsi: true
 pygments: true
 safe: true
